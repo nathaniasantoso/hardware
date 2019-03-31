@@ -1,1 +1,1 @@
-*.hfwuihf.f.a
+*.a
